@@ -11,4 +11,3 @@
 
 
 [![An image of @fejiro001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fejiro001)](https://holopin.io/@fejiro001)
-
