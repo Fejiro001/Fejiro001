@@ -14,3 +14,5 @@
 [![An image of @fejiro001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fejiro001)](https://holopin.io/@fejiro001)
 
 ![An image of Fejiro001 Codewars badge](https://www.codewars.com/users/Fejiro001/badges/large)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fejiro001)](https://github.com/Fejiro001/github-profile-trophy)
