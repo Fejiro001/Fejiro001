@@ -12,7 +12,6 @@ My name is Fejiro Abere (Stephanie). I am a Computer Engineering graduate curren
 
 I enjoy building clean and scalable interfaces and developing full-stack applications that solve real-world problems while delivering intuitive user experiences.
 
----
 
 ## Tech Stack
 
@@ -28,21 +27,16 @@ I enjoy building clean and scalable interfaces and developing full-stack applica
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
----
 
 ## GitHub Statistics
 
 <p>
-  <a style="padding-right:10px;text-decoration:none;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Fejiro001&show_icons=true&theme=transparent" height="160"/>
-  </a>
-
-  <a style="text-decoration:none;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fejiro001&theme=transparent&layout=compact" height="160"/>
   </a>
 </p>
 
----
 
 ## Achievements
 
