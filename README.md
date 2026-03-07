@@ -36,11 +36,11 @@ I enjoy building clean and scalable interfaces and developing full-stack applica
 ## GitHub Statistics
 
 <p>
-  <a style="margin-right:10px;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <a style="padding-right:10px;text-decoration:none;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Fejiro001&show_icons=true&theme=transparent" height="160"/>
   </a>
 
-  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <a style="text-decoration:none;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fejiro001&theme=transparent&layout=compact" height="160"/>
   </a>
 </p>
