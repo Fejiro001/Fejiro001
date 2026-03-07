@@ -1,35 +1,51 @@
 # Hi there 😎
 
-![My profile views](https://komarev.com/ghpvc/?username=Fejiro001)
-![Winnipeg sunrise](./assets/media/bg.jpg)
+Software Development student at MITT building modern web applications.
 
-<div style="margin-bottom:20px;height:50px;">
-  <h2 style="display:inline;padding-right:10px;line-height:0;">About Me</h2>
-  <img src="./assets/media/mini-fejiro.png" height=50px>
+![My profile views](https://komarev.com/ghpvc/?username=Fejiro001)
+
+![Winnipeg sunrise banner taken by me from my window](./assets/media/bg.jpg)
+
+<div style="display:flex;gap:10px;align-items:center;">
+  <h2 style="display:inline;">About Me</h2>
+  <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=60px>
 </div>
 
 My name is Fejiro Abere (Stephanie). I am a Computer Engineering graduate currently studying Software Development at the Manitoba Institute of Trades and Technology (MITT).
 
-I focus on building clean, scalable interfaces and full-stack applications that solve real-world problems and deliver exceptional user experiences.
+I enjoy building clean and scalable interfaces and developing full-stack applications that solve real-world problems while delivering intuitive user experiences.
 
+---
 
-## My Skills
+## Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss)](https://skillicons.dev)
+
+[![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,typescript)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+
+[![My Backend Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
+[![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+
+---
 
 ## GitHub Statistics
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Fejiro001&show_icons=true&theme=transparent)
+<p>
+  <a style="margin-right:10px;" href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Fejiro001&show_icons=true&theme=transparent" height="160"/>
+  </a>
 
-![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fejiro001&theme=transparent&layout=compact)
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fejiro001&theme=transparent&layout=compact" height="160"/>
+  </a>
+</p>
+
+---
 
 ## Achievements
 
