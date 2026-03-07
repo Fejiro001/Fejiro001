@@ -1,15 +1,12 @@
 # Hi there 😎
 
-Software Development student at MITT building modern web applications.
+Software Development student at MITT, building modern web applications.
 
 ![My profile views](https://komarev.com/ghpvc/?username=Fejiro001)
 
 ![Winnipeg sunrise banner taken by me from my window](./assets/media/bg.jpg)
 
-<div style="display:flex;gap:10px;align-items:center;">
-  <h2 style="display:inline;">About Me</h2>
-  <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=60px>
-</div>
+<h2>About Me <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=40></h2>
 
 My name is Fejiro Abere (Stephanie). I am a Computer Engineering graduate currently studying Software Development at the Manitoba Institute of Trades and Technology (MITT).
 
