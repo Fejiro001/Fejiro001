@@ -8,9 +8,9 @@ Software Development student at MITT, building modern web applications.
 
 <h2>About Me <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=40></h2>
 
-My name is Fejiro Abere (Stephanie). I am a Computer Engineering graduate currently studying Software Development at the Manitoba Institute of Trades and Technology (MITT).
+My name is Fejiro Abere (Stephanie), a Computer Engineering graduate currently studying Software Development at the **Manitoba Institute of Trades and Technology (MITT)** to expand my technical knowledge and strengthen both my technical and soft skills.
 
-I enjoy building clean and scalable interfaces and developing full-stack applications that solve real-world problems while delivering intuitive user experiences.
+I enjoy building useful, clean, and scalable websites and developing full-stack applications that solve real-world problems. I am passionate about software development and hope to contribute meaningful value within a team while continuing to grow as a developer.
 
 
 ## Tech Stack
