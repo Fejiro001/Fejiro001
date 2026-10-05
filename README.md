@@ -4,6 +4,8 @@ Software Development student at MITT, building modern web applications.
 
 ![My profile views](https://komarev.com/ghpvc/?username=Fejiro001)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oghenefejiro-abere-487b08161)
+
 <!-- ![Winnipeg sunrise banner taken by me from my window](./assets/media/bg.jpg) -->
 
 <h2>About Me <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=40></h2>
