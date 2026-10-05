@@ -4,28 +4,28 @@ Software Development student at MITT, building modern web applications.
 
 ![My profile views](https://komarev.com/ghpvc/?username=Fejiro001)
 
-![Winnipeg sunrise banner taken by me from my window](./assets/media/bg.jpg)
+<!-- ![Winnipeg sunrise banner taken by me from my window](./assets/media/bg.jpg) -->
 
 <h2>About Me <img src="./assets/media/mini-fejiro.png" alt="Image of Fejiro designed on Figma" height=40></h2>
 
-My name is Fejiro Abere (Stephanie), a Computer Engineering graduate currently studying Software Development at the **Manitoba Institute of Trades and Technology (MITT)** to expand my technical knowledge and strengthen both my technical and soft skills.
+Hi! I'm Fejiro Abere (Stephanie), a Computer Engineering graduate currently studying Software Development at the **Manitoba Institute of Trades and Technology (MITT)** to strengthen both my technical and soft skills.
 
-I enjoy building useful, clean, and scalable websites and developing full-stack applications that solve real-world problems. I am passionate about software development and hope to contribute meaningful value within a team while continuing to grow as a developer. Outside of programming I enjoy watch Formula 1 and playing video games in my free time.
+I enjoy building useful, clean, and scalable websites and developing full-stack applications that solve real-world problems. I am passionate about software development and hope to contribute meaningful value within a team while continuing to grow as a developer. Outside of programming, I enjoy watching F1 and playing with puzzles.
 
 
 ## Tech Stack
 
 ### Frontend
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,typescript)](https://skillicons.dev)
+[![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss)](https://skillicons.dev)
 
 ### Backend
 
-[![My Backend Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=php,cs,dotnet,laravel,mysql)](https://skillicons.dev)
 
 ### Tools
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vite,figma,vscode,visualstudio)](https://skillicons.dev)
 
 
 ## GitHub Statistics
